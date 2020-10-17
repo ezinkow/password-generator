@@ -1,0 +1,45 @@
+
+// for(var i = 0; i < charactersNum; i++) {
+//   console.log(Math.floor(Math.random() * 10))
+// }
+
+
+
+// console.log((upperCharacters[math.random(upperCharacters)])*upperCharacters.length);
+
+// console.log(upperCharacters[for(var i = 0; i < )])
+
+
+// these all need to be a function, not a var
+// var randomUpper = upperCharacters[Math.floor(Math.random()*upperCharacters.length)];
+// var randomLower = lowerCharacters[Math.floor(Math.random()*lowerCharacters.length)];
+// var randomSpecial = specialCharacters[Math.floor(Math.random()*specialCharacters.length)];
+// var randomNumber = numbers[Math.floor(Math.random()*numbers.length)];
+
+// var password1 = [randomUpper,randomLower,randomSpecial,randomNumber];
+
+// for (var i = 0; i < 100; i++) {
+//   return((password1[Math.floor(Math.random()*4)]))
+// }
+
+// console.log(randomUpper)
+
+
+
+
+// // how many characters? must be 8 or more
+// // special characters?
+// // numeric characters?
+// // lower case?
+// // upper case?
+// // function that executes 72-73
+// function getRandomChar() {
+//   return password1[Math.floor(Math.random()*4)]
+
+
+// }
+
+
+// // var password = ""
+
+// // and then +=
